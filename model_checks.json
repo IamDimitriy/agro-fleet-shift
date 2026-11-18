@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "schedules_audited": 140,
+  "independent_hand_cases": 5,
+  "exhaustive_orders_per_case": 120,
+  "checks": "Resources, battery cycles, charging pauses, water, equal area, full recovery, arithmetic"
+}

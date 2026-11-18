@@ -1,0 +1,8 @@
+{
+  "truck_fuel_l_per_100km": 18,
+  "fuel_rub_per_litre": 75,
+  "service_rub_per_ha": 10,
+  "planning_minutes": 20,
+  "planner_hour_rub": 1000,
+  "crew_hour_rub": 3000
+}
